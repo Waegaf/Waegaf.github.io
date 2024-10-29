@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: waelEPFL.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Bonjour et bienvenu sur mon premier blog personel.
+Hello and welcome on my page. I am Wael Gafaiti, a 23 year old applied mathematician based in Lausanne (Switzerland). I recently completed my master's degree at École Polytechnique Fédérale de Lausanne (EPFL), where I also had completed my bachelor degree in mathematics. I developed there research interests in data analysis and machine learning while keeping a critical thinking on the benefits of the applications of those innovations in our real world.
 
-Bonjour et bienvenu sur mon premier blog personel.
+Beyond my academic pursuits, I am passionate about sports (basketball or fight sports). As a proud swiss guy, I love to discover mountains either on foot or on cross country ski. And when it’s time to unwind, you can find me listening to or mixing house music—a genre that fuels my creativity and energy.
 
-Bla Bla Bla
+Thank you for visiting my page, and feel free to connect (especially if you share similar interests)!
