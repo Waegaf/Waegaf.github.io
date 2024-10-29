@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Waegaf.github.io/sitemap.xml
+Sitemap: https://waegaf.github.io/sitemap.xml
