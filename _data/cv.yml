@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 6 January 2001
     - name: Languages
-      value: French, English
+      value: French, English, German
 
 - title: Education
   type: time_table
@@ -20,7 +20,8 @@
           - Mathematical modelling
           - Statistics
           - Machine Learning
-          - Cryptography
+          - Number theory in cryptography
+          - Randomization and causation
 
         - Master's thesis "Infimal convolution"
     - title: Bachelor degree in Mathematics
@@ -36,7 +37,7 @@
       company: Watchout Corp SA, Yverdon-les-Bains, Switzerland
       year: 2023-2024
       description:
-       - Development of a statistics based algorithm to retrieve contour model of real mechanical pieces.
+       - Development of a statistics based algorithm to retrieve contour model of real noisy mechanical pieces.
 
     - title: Teaching
       institution: Ecole du flon, Lausanne, Switzerland
@@ -65,4 +66,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Basketball, hiking and music.
+    - <u>Hobbies:</u> Basketball, hiking, french philosophy and music.
